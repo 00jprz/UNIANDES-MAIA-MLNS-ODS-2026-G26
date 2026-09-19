@@ -82,7 +82,7 @@ st.caption(f"""
     ">
         <em>Creado por: CARLOS JOSE GARCIA CORRALES,
         JAVIER PEREZ OSORIO</em><br>
-        <em>Versión de: Septiembre 19, 2024</em><br>
+        <em>Versión de: Septiembre 19, 2026</em><br>
         <em>Universidad de los Andes -</em>
         Microproyecto de Inteligencia Artificial
     </div>
